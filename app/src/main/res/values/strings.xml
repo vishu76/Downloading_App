@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Downloading App</string>
+    <string name="NEWS_CHANNEL_ID">news</string>
+    <string name="CHANNEL_NEWS">News</string>
+    <string name="CHANNEL_DESCRIPTION">Get informed with new updates</string>
+    <string name="DEBUG_TAG">"Message "</string>
+
+</resources>
